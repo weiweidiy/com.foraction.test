@@ -1,0 +1,22 @@
+{
+  "name": "com.foraction.test",
+  "displayName": "JFramework",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "unityRelease": "6f1",
+  "description": "Description of your package",
+  "keywords": [ "keyword1", "keyword2" ],
+  "category": "framework",
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "Jichunwei",
+    "email": "49595272@qq.com",
+    "url": "https://hiplay.ren"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weiweidiy/com.foraction.test.git"
+  }
+}
